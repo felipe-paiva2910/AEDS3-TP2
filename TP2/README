@@ -1,0 +1,5 @@
+Instruções de compilação e execução
+
+Dentro da pasta "src" presente em tp2, no terminal execute "make" para compilar o código e make run para limpar os obj do programa
+
+Com ele compilado basta executar ./tp2 <estrategia> entrada.txt no terminal para executar o programa com a estrategia desejada(1 ou 2)
